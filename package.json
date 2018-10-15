@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "firebase-tools": "^5.0.1",
+    "mocha": "^5.2.0",
+    "nyc": "^13.0.1"
+  },
+  "name": "CallDesk",
+  "version": "1.0.0",
+  "description": "Technical Test",
+  "main": "index.js",
+  "author": "Adrien Muzika",
+  "license": "MIT"
+}
