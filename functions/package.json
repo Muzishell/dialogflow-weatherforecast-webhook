@@ -63,7 +63,7 @@
     "env": {
       "node": true,
       "mocha": true,
-      "es7": true
+      "es6": true
     }
   }
 }
